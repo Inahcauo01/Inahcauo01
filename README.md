@@ -34,6 +34,15 @@ I thrive on using these tools to craft exceptional software that elevates user e
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />          
 <!--img align="left" alt="Linux" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" /-->
+<br>
+<h3 align="left">Most used languages:</h3>
+<p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=inahcauo01&show_icons=true&locale=en&layout=compact&theme=transparent" alt="inahcauo01" />
+    <!--img align="center" src="https://github-readme-stats.vercel.app/api?username=inahcauo01&show_icons=true&bg_color=00000000"  alt="inahcauo01" >
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inahcauo01&layout=pie"  alt="inahcauo01" >
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inahcauo01&layout=donut"  alt="inahcauo01" >
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inahcauo01&layout=donut-vertical"  alt="inahcauo01" -->
+</p>
 <!--
 **Inahcauo01/Inahcauo01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
