@@ -18,6 +18,8 @@ I thrive on using these tools to craft exceptional software that elevates user e
     <img alt="Java" width="40px" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> 
     <img alt="Spring" width="40px" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
     <img alt="Angular" width="40px" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" />
+    <img alt="C#" width="40px" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+    <img alt=".Net" width="40px" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" /> 
     <img alt="Docker" width="40px" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
     <img alt="Jenkins" width="40px" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
     <img alt="Junit" width="40px" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" />
