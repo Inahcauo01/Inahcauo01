@@ -9,7 +9,7 @@
 </p>
 
 
-I'm a <b>fullstack developer</b> with a strong passion for databases and <b><i>SQL</i></b>. My expertise lies in utilizing technologies like <b><i>JAVA, JEE, Spring, PHP, Laravel, JavaScript, CSS, Bootstrap,</i></b> and <b><i>Tailwind</i></b> to create innovative solutions.<br>
+I'm a <b>fullstack developer</b> with a strong passion for databases and <b><i>SQL</i></b>. My expertise lies in utilizing technologies like <b><i>JAVA, JEE, Spring, Angular, React, PHP, Laravel, JavaScript, CSS, Bootstrap,</i></b> and <b><i>Tailwind</i></b> to create innovative solutions.<br>
 I thrive on using these tools to craft exceptional software that elevates user experiences. Whether it's crafting the backend logic or designing the frontend interfaces, I'm dedicated to delivering high-quality solutions that empower users and fellow developers alike.
 
 ---
