@@ -8,9 +8,14 @@
     <a href="https://www.instagram.com/iam.inahcauo" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
 </p>
 
-
-I'm a <b>fullstack developer</b> with a strong passion for databases and <b><i>SQL</i></b>. My expertise lies in utilizing technologies like <b><i>JAVA, JEE, Spring, Angular, React, PHP, Laravel, JavaScript, CSS, Bootstrap,</i></b> and <b><i>Tailwind</i></b> to create innovative solutions.<br>
-I thrive on using these tools to craft exceptional software that elevates user experiences. Whether it's crafting the backend logic or designing the frontend interfaces, I'm dedicated to delivering high-quality solutions that empower users and fellow developers alike.
+I'm a <b>fullstack developer</b> with a strong passion for databases and <b><i>SQL</i></b>. 
+My expertise lies in building scalable applications using modern stacks such as 
+<b><i>MERN (MongoDB, Express, React, Node.js)</i></b> and technologies like 
+<b><i>Java, JEE, Spring, Angular, PHP, Laravel, JavaScript, CSS, Bootstrap,</i></b> and 
+<b><i>Tailwind</i></b>.<br>
+I thrive on using these tools to craft exceptional software that elevates user experiences. 
+Whether it's crafting backend logic or designing frontend interfaces, I'm dedicated to 
+delivering high-quality solutions that empower users and fellow developers alike.
 
 ---
 <h2>🧰 Languages and Tools</h2>
