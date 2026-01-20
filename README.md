@@ -17,6 +17,11 @@ I thrive on using these tools to craft exceptional software that elevates user e
 <p align="center">
     <img alt="Java" width="40px" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> 
     <img alt="Spring" width="40px" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+    <img alt="React" width="40px" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <img alt="Node.js" width="40px" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    <img alt="Express" width="40px" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+    <img alt="MongoDB" width="40px" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+    <img alt="MERN Stack" width="40px" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img alt="Angular" width="40px" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" />
     <img alt="C#" width="40px" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 <!--     <img alt=".Net" width="40px" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />  -->
